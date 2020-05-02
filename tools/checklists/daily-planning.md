@@ -1,4 +1,4 @@
-# Daily checklist
+# Daily Plannig Checklist
 
 ## Daily Planning
 
@@ -8,6 +8,7 @@
 - What are my concerns?
 - What's the biggst frog I'm gonna eat first?
 - What's nice to have done? What would be excelent to have done?
+- What can be delegated?
 
 ## Daily Review
 
@@ -16,4 +17,5 @@
 - What have I learned today?
 - What I will do diferent tomorrow?
 - What are the highlights of the day?
+- Update tracker
 - What am I grateful for today?
