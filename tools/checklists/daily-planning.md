@@ -17,5 +17,6 @@
 - What have I learned today?
 - What I will do diferent tomorrow?
 - What are the highlights of the day?
+- What leftovers do I have?
 - Update tracker
 - What am I grateful for today?
