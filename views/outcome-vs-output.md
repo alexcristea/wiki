@@ -1,16 +1,14 @@
 ## Outcome vs. Output
 
-- **Outcome**: something what happens as a consequence or you actions.
-- **Output**: your actions.
+- **Outcome**: something what happens as a consequence or your actions.
+- **Output**: your actions — tasks, your todos, a project, or the deliverables.
 
-Start with the end in mind: the outcomes always come last.
+Start with the end in mind: the outcomes always come last. Focus on results rather than actions and track the progress of what matters.
 
-Outputs are the tasks you're working on or your todos, a project, or the deliverables.
+This enables you to:
 
-Focus on results rather than actions and track the progress of what matters. This enables you to:
-
-- learn
 - boost performance
+- learn
 - protect employees against micromanagement
 
 > - **Output**: I’ve called a prospect.

@@ -95,7 +95,7 @@ Pair KRs to measure both **effect** and **counter-effect** (**quantity** & **qua
 > - **KR1**: Design and build three new features.
 > - **KR2**: Fewer than 2 bugs per feature in quality assurance testing.
 > - **KR3**: Average 4-star rating in AppStore.
-> - **KR4**: Secure the top 100 position in the health and fitness category of app store charts.
+> - **KR4**: Secure the top 100 pozition in the health and fitness category of app store charts.
 
 > **Objective**: Have more quality family time
 >
@@ -107,5 +107,4 @@ Pair KRs to measure both **effect** and **counter-effect** (**quantity** & **qua
 - Tags: #okr #kr
 - Resources:
   - [The New OKR Crash Course: An introduction to Objectives & Key Results](https://www.youtube.com/watch?v=EIcpFZ5rbHc)
-  - [Outcomes vs Outputs: are you activity or results driven?](https://www.youtube.com/watch?v=AbzVjVdQUx8)
   - [What Matters Website](https://www.whatmatters.com)
