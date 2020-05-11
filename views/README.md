@@ -23,7 +23,8 @@ A collection of concepts, thoughts, and narratives viewed through the lenses of 
 
 ### O
 
-- [OKR (Objective Key Result)](/views/okr.md)
+- [Outcome vs. Output](/views/outcome-vs-output.md)
+- [OKR (Objective and Key Results)](/views/okr.md)
 
 ### P
 

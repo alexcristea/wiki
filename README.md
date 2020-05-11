@@ -23,7 +23,8 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 ### O
 
-- [OKR (Objective Key Result)](/views/okr.md)
+- [Outcome vs. Output](/views/outcome-vs-output.md)
+- [OKR (Objective and Key Results)](/views/okr.md)
 
 ### P
 
