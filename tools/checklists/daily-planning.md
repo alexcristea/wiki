@@ -1,22 +1,21 @@
-# Daily Plannig Checklist
+# Daily Planning Checklist
 
-## Daily Planning
+## Morning
 
 - What am I grateful for today?
-- What's something significat I'm working towards today?
+- On what initiatives I will work today?
+- What are my 3 (must) - 2 (nice) - 5 (extraordinary) priorities?
 - How I'm setting myself up for success?
 - What are my concerns?
-- What's the biggst frog I'm gonna eat first?
-- What's nice to have done? What would be excelent to have done?
 - What can be delegated?
 
-## Daily Review
+## Afternoon
 
 - What was good today?
 - What was not so good today?
 - What have I learned today?
-- What I will do diferent tomorrow?
+- What I will do differently tomorrow?
 - What are the highlights of the day?
-- What leftovers do I have?
+- What leftovers do I have for tomorrow?
 - Update tracker
 - What am I grateful for today?
