@@ -1,14 +1,11 @@
 # Weekly Planning Checklist
 
-## Weekly Review
+## Review
 
-- Review personal objective
-- Review professional objective
-- Migrate undone taks
+- Review personal initiatives
+- Review professional initiatives
 
-## Weekly Planning
+## Planning
 
-- Review the inbox
-- Review the calendar
-- One personal object
-- One professional object
+- What _personal_ initiatives do I plan for the week ahead?
+- What _professional_ initiatives do I plan for the week ahead?
