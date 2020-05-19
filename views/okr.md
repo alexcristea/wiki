@@ -55,7 +55,7 @@ You can split OKRs into two categories:
 - They are challenging to achieve.
 - Failures can happen in 40% of cases.
 
-What type of company to be in the following year? Agile and daring to crack a new market or more conservative and operational to cap on what we have?
+> What type of company to be in the following year? Agile and daring to crack a new market or more conservative and operational to cap on what we have?
 
 ## Traits of effective OKRs
 
@@ -83,7 +83,7 @@ What type of company to be in the following year? Agile and daring to crack a ne
 ## Guidelines for setting effective OKRs
 
 1. Where do I want to go? — _Objective_
-2. How do I know I got there? What are the results I need to achieve in order to get there? — _Key Results_
+2. How do I know I got there? What are the results I need to achieve to get there? — _Key Results_
 3. What do I need to do to achieve those results? — _Initiatives_
 
 ## Examples
