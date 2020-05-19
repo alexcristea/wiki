@@ -11,24 +11,21 @@ The **objectives** are the **why**, the **KRs** are the **how** and the **initia
 
 ### Objective — _Where I need to go_
 
-- A statement that inspires.
 - Sets the direction.
-- Is significant, concrete, action-oriented, and ideally aspirational. Is a vaccine against fuzzy thinking and fuzzy execution.
-- An objective can long-lived, rolled over for a year or longer.
+- A statement that is ideally aspirational or inspirational.
+- It is significant, concrete, and action-oriented.
+- It is a vaccine against fuzzy thinking and fuzzy execution.
+- It can be long-lived, rolled over for a year, or longer.
 
 #### What is not
 
-- Shouldn't be measurable.
+- It shouldn't be measurable.
 
 > **Objective**: Make our customers love our support team.
 
 ### Key Results (KR) — _How do I know I'm getting there_
 
-- Benchmark and monitor progress toward the objective.
-- Specific and time-bound, ambitious yet realistic. Most of all they are measurable and verifiable.
-- A milestone. In the end you should be able to say "did I do it, or not?", no argue about it.
-- You either meet a KR requirement or you don't; there's no grey area.
-- Completion of all KRs means the achievement of the objective.
+- Benchmark and measure progress toward the objective.
 
 > - **KR1**: Customer satisfaction score of 97%.
 > - **KR2**: Average first response time of 1 hour.
@@ -62,25 +59,26 @@ What type of company to be in the following year? Agile and daring to crack a ne
 
 ## Traits of effective OKRs
 
-Pair KRs to measure both **effect** and **counter-effect** (**quantity** & **quality**).
+### Less is more
 
-|                      |                                                                        |
-| -------------------- | ---------------------------------------------------------------------- |
-| Less is more         | Limited focused objectives (chose what matters most).                  |
-|                      | No more than 5 KRs.                                                    |
-| KRs should           | Be specific and measurable.                                            |
-|                      | Measure outputs and inputs.                                            |
-| Stay flexible        | KRs can be changed or even discarded if the context changes.           |
-|                      | KRs are not commandments set in stone.                                 |
-|                      | You may realize the right KR after starting work.                      |
-| Dare to fail         | Some objectives must be met in full (usually operational objectives).  |
-|                      | Aspirational OKRs should be uncomfortable and maybe even unattainable. |
-|                      | "Stretch goals" put the organization to new heights.                   |
-| No dictating         | OKRs are a cooperative social contract.                                |
-|                      | After company objectives are set, KRs can still be negotiated.         |
-|                      | Collective agreement is essential for maximum objective achievement.   |
-| a tool, not a weapon | Don’t use them as a contract in performance evaluations.               |
-|                      | Keep separate from salary raise.                                       |
+- Limited focused objectives (chose what matters most).
+
+### Dare to fail
+
+- Some objectives must be met in full (usually operational objectives).
+- "Stretch goals" put the organization to new heights.
+- Aspirational OKRs should be uncomfortable and maybe even unattainable.
+
+### No dictating
+
+- OKRs are a cooperative social contract.
+- After company objectives are set, KRs can still be negotiated.
+- A collective agreement is essential for maximum objective achievement.
+
+### A tool, not a weapon
+
+- Don’t use them as a contract in performance evaluations.
+- Keep separate from salary raise.
 
 ## Guidelines for setting effective OKRs
 
