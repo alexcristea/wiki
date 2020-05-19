@@ -93,7 +93,7 @@ What type of company to be in the following year? Agile and daring to crack a ne
 > - **KR1**: Design and build three new features.
 > - **KR2**: Fewer than 2 bugs per feature in quality assurance testing.
 > - **KR3**: Average 4-star rating in AppStore.
-> - **KR4**: Secure the top 100 pozition in the health and fitness category of app store charts.
+> - **KR4**: Secure the top 100 position in the health and fitness category of app store charts.
 
 > **Objective**: Have more quality family time
 >
@@ -102,7 +102,7 @@ What type of company to be in the following year? Agile and daring to crack a ne
 
 ## Meta
 
-- Tags: #okr #kr
+- Tags: #okr #objective #kr #initiative
 - Resources:
   - [The New OKR Crash Course: An introduction to Objectives & Key Results](https://www.youtube.com/watch?v=EIcpFZ5rbHc)
   - [What Matters Website](https://www.whatmatters.com)

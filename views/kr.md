@@ -39,9 +39,11 @@ Pair KRs to measure both **effect** and **counter-effect** (**quantity** and **q
 
 > Increase cNPS from 7 to 9
 
-## Resources
+## Meta
 
-- [The difference between Metrics, KPIs & Key Results][1] • [Video][2]
+- Tags: #objective #kr
+- Resources:
+  - [The difference between Metrics, KPIs & Key Results][1] • [Video][2]
 
 [1]: https://www.perdoo.com/resources/the-difference-between-metrics-kpis-key-results/
 [2]: https://www.youtube.com/watch?v=lLKyuUqtwuA
