@@ -22,9 +22,31 @@
 - About meaning and surviving in the camp
 - The pshihology of the guards
 
-## Part II
+> Somebody showed me an illustrated weekly with photographs of prisoners lying crowded on their bunks, staring dully at a visitor. “Isn’t this terrible, the dreadful staring faces—everything about it.”
+>
+> “Why?” I asked, for I genuinely did not understand.
+>
+> ...
+>
+> When I explained, my listeners understood why I did not find the photograph so terrible: the people shown on it might not have been so unhappy after all.
 
-- Introduction to Logoteraphy
+## Part II — Logotherapy in a Nutshell
+
+- Introduction to logoteraphy
+- The Will to meaning
+- Exstential vacuum and frustration
+- The meaning of Life
+- The meaning of Love
+- The meaning of Suffering
+- The super-meaning
+
+> I speak of a will to meaning in contrast to the pleasure principle (or, as we could also term it, the will to pleasure) on which Freudian psychoanalysis is centered, as well as in contrast to the will to power on which Adlerian psychology, using the term “striving for superiority,” is focused.
+
+## Postscript — The Case for a Tragic Optimism
+
+- About optimism in pain
+- About optimism in guilt
+- About otimism in death
 
 ## Quotes
 
@@ -58,14 +80,6 @@
 
 > No man should judge unless he asks himself in absolute honesty whether in a similar situation he might not have done the same.
 
-> Somebody showed me an illustrated weekly with photographs of prisoners lying crowded on their bunks, staring dully at a visitor. “Isn’t this terrible, the dreadful staring faces—everything about it.”
->
-> “Why?” I asked, for I genuinely did not understand.
->
-> ...
->
-> When I explained, my listeners understood why I did not find the photograph so terrible: the people shown on it might not have been so unhappy after all.
-
 > The list was the only thing that mattered. A man counted only because he had a prison number. One literally became a number: dead or alive—that was unimportant; the life of a “number” was completely irrelevant. What stood behind that number and that life mattered even less: the fate, the history, the name of the man.
 
 > I generally answered all kinds of questions truthfully. But I was silent about anything that was not expressly asked for.
@@ -89,6 +103,30 @@
 > We were not hoping for happiness—it was not that which gave us courage and gave meaning to our suffering, our sacrifices and our dying. And yet we were not prepared for unhappiness.
 
 > But for every one of the liberated prisoners, the day comes when, looking back on his camp experiences, he can no longer understand how he endured it all.
+
+> Man, however, is able to live and even to die for the sake of his ideals and values!
+
+> What man actually needs is not a tensionless state but rather the striving and struggling for a worthwhile goal, a freely chosen task.
+
+> Ultimately, man should not ask what the meaning of his life is, but rather he must recognize that it is he who is asked. In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible.
+
+> “Live as if you were living already for the second time and as if you had acted the first time as wrongly as you are about to act now!”
+
+> Some of the people who nowadays call on a psychiatrist would have seen a pastor, priest or rabbi in former days.
+
+> Pleasure is, and must remain, a side-effect or by-product, and is destroyed and spoiled to the degree to which it is made a goal in itself.
+
+> Man does not simply exist but always decides what his existence will be, what he will become in the next moment.
+
+> Freedom is but the negative aspect of the whole phenomenon whose positive aspect is responsibleness. That is why I recommend that the Statue of Liberty on the East Coast be supplemented by a Statue of Responsibility on the West Coast.
+
+> A human being is not one thing among others; things determine each other, but man is ultimately self-determining.
+
+> After all, man is that being who invented the gas chambers of Auschwitz; however, he is also that being who entered those gas chambers upright, with the Lord’s Prayer or the Shema Yisrael on his lips.
+
+> Nihilism does not contend that there is nothing, but it states that everything is meaningless.
+
+> For the world is in a bad state, but everything will become still worse unless each of us does his best.
 
 ## Meta
 
