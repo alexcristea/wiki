@@ -6,7 +6,7 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 ### A
 
-- [Anticipatory-anxiety](views/anticipatory-anxiety.md)
+- [Anticipatory-anxiety](/views/anticipatory-anxiety.md)
 
 ### C
 
@@ -23,6 +23,7 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 
 ### M
 
+- [Meaning in life](/views/meaning-in-life.md)
 - [Metric](/views/metric.md)
 
 ### O
@@ -38,10 +39,6 @@ A collection of personal **Views**, **Tools** and **Workflows**.
 ### T
 
 - [Time Management](/views/time-management.md)
-
-### W
-
-- [Will to Meaning](/views/will-to-meaning.md)
 
 ## Books
 

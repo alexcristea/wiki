@@ -4,6 +4,10 @@ A collection of concepts, thoughts, and narratives viewed through the lenses of 
 
 ## Index
 
+### A
+
+- [Anticipatory-anxiety](/views/anticipatory-anxiety.md)
+
 ### C
 
 - [Checklist](/views/checklist.md)
@@ -15,10 +19,11 @@ A collection of concepts, thoughts, and narratives viewed through the lenses of 
 ### K
 
 - [KPI (Key Performance Indicator)](/views/kpi.md)
-- [KR (Key Results)](/views/kr.md)
+- [KR (Key Result)](/views/kr.md)
 
 ### M
 
+- [Meaning in life](/views/meaning-in-life.md)
 - [Metric](/views/metric.md)
 
 ### O
