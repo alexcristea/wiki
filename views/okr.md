@@ -8,7 +8,6 @@ OKR is **two** things:
 ## Structure
 
 The **objectives** are the **why**, the **KRs** are the **how** and the **initiatives** are the **what**.
-
 ### Objective — _Where I need to go_
 
 - Sets the direction.
@@ -43,6 +42,17 @@ It takes 5 minutes per week — and our data shows that you’ll achieve 5 times
 
 > - Publish an FAQ.
 > - Lunch in-app live chat.
+
+## Rules
+
+**Be patient, be resolute**: nobody got it right from the first try. Don’t allow the perfect to be the enemy of the good (**done is better than perfect**). Clarity is the key.
+
+- Set them frequently.
+- Don't set too many.
+- Focus on **build**, **change** or **innovate**. Don't use OKRs for everything.
+- Make them transparent. Make sure the teams are aligned.
+- Update progress regularly.
+- Appoint an OKR Ambassador.
 
 ## Commitment vs. Aspirational
 
@@ -106,6 +116,11 @@ You can split OKRs into two categories:
 >
 > - **KR1**: Getting home for dinner by 6pm, 20 nights per month.
 > - **KR2**: Being present by turning off the internet router to eliminate distractions.
+
+> **Objective**: Make so much revenue that we wildly increase our revenue
+>
+> - **KR1**: Close 85 new accounts
+> - **KR2**: Capture 30% market share.
 
 ## Meta
 
