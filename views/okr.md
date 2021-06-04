@@ -8,6 +8,7 @@ OKR is **two** things:
 ## Structure
 
 The **objectives** are the **why**, the **KRs** are the **how** and the **initiatives** are the **what**.
+
 ### Objective — _Where I need to go_
 
 - Sets the direction.
@@ -94,14 +95,16 @@ You can split OKRs into two categories:
 
 ### A tool, not a weapon
 
-- Don’t use them as a contract in performance evaluations.
+- Don't use them as a contract in performance evaluations.
 - Keep separate from salary raise.
 
 ## Guidelines for setting effective OKRs
 
 1. Where do I want to go? — _Objective_
 2. How do I know I got there? What are the results I need to achieve to get there? — _Key Results_
-3. What do I need to do to achieve those results? — _Initiatives_
+3. What do I need to do to get there? — _Initiatives_
+
+If the **Objective** is your destination, and the **KRs** indicate the distance you need to travel, then the *s* describe what you will do to get there (get there by car, sail by boat, etc.).
 
 ## Examples
 

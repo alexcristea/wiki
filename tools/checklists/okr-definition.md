@@ -63,6 +63,7 @@
         - A metaphor for this is the GPS that needs 2-3 satellites to pinpoint your location.
         - Completion of all KRs means the achievement of the objective.
     - If you have in mind a couple of actions that could get you closer to the Objective, write them down and try to identify the results those actions may create.
+    - They can be linked to epics or stories in your project management tool.
     - Stay flexible:
         - If the context changed, KRs can be changed or even discarded half-cycle and add new ones
         - KRs are not commandments set in stone
@@ -92,6 +93,7 @@
 
 - [ ] What do we need to do to achieve those results?
     - These are the outputs: concrete actions that will help achieve the KRs.
+    - They can be linked to stories or tasks in your project management tool.
     - Actions:
         - Tasks
         - Todos
